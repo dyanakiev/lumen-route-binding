@@ -1,5 +1,13 @@
 # Lumen Route Binding
 
+Use ver 6.0.0 for lumen 8
+
+
+
+
+
+
+
 [![Build Status](https://travis-ci.org/mmghv/lumen-route-binding.svg?branch=master)](https://travis-ci.org/mmghv/lumen-route-binding)
 [![Lumen Version](https://img.shields.io/badge/Lumen-5%20--%207-orange.svg)](https://github.com/laravel/lumen)
 [![Latest Stable Version](https://poser.pugx.org/mmghv/lumen-route-binding/v/stable)](https://packagist.org/packages/mmghv/lumen-route-binding)
